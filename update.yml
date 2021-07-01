@@ -5,8 +5,6 @@
 
   - name: update packages
     package:
+      upgrade: dist
       update_cache: yes
 
-  - name: distro upgrade
-    package:
-      upgrade: dist
