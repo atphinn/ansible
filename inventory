@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [piclusters]
 pi@192.168.0.20
 #pi@192.168.0.24
@@ -30,3 +31,8 @@ w4patt4ck@192.168.0.22
 ansible_become=yes
 ansible_become_method=sudo
 ansible_become_pass="{{pcatpass}}"
+=======
+192.168.0.20
+192.168.0.10
+192.168.0.16
+>>>>>>> 003d819832da78599f9ca061f936d7c4fb35b5c0
